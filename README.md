@@ -2,10 +2,9 @@
 
 [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 ***
-In my shiny finance job I would count down the hours of the day.
+In my shiny finance job I would count down the hours of the day. That has all changed since becoming a developer.
 
-That has all changed since becoming a developer. I'm now frustrated by the need to sleep. I'm obsessed with improving my skills and expanding my knowledge.  
-I'm itching to find a job that will help facilitate that.
+I'm now frustrated by the need to sleep. I'm obsessed with improving my skills and expanding my knowledge. And I'm itching to find a job that will help facilitate that.
 
 
 I AM A... Junior Full Stack Developer hot off the Makers Academy press, one of Europe's leading development bootcamps.
