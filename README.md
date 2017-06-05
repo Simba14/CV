@@ -15,8 +15,8 @@ I SPEAK... Ruby, JavaScript, TDD, Pair-Programming, XP Values and HTML/CSS.
 
 I'M SEEKING... to join an ambitious, dynamic team that promotes an environment of continual learning and progression. Momentum is key for me. I want to be trusted with delivering high quality code from the get go but have faith in the provision of resources and guidance to help me achieve that.
 
-## <a name="projects">Projects</a>
 ***
+## <a name="projects">Projects</a>
 
 |     Project  |  Description | Technologies |    Testing   |
 |--------------|--------------|--------------|--------------|
@@ -25,8 +25,8 @@ I'M SEEKING... to join an ambitious, dynamic team that promotes an environment o
 | [BlundellGram](https://github.com/Simba14/BlundellGram) |  A Rails web application cloning the wonders of Instagram, AKA a space that allows users to upload, comment, and like photos. | Ruby on Rails, Postgresql (using ActiveRecord), Omniauth (enables Facebook sign in) & Bootstrap.  |  RSpec & Capybara |
 | [Bowling Scorecard](http://blundells-bowling.herokuapp.com/index.html) | Interactive bowling scorecard built over a weekend that successfully incorporates the game's complex logic and scenarios. Score a strike [now!](http://blundells-bowling.herokuapp.com/index.html) | JavaScript, jQuery, HTML5 & CSS.   | Jasmine |
 
-## <a name="education">Education</a>
 ***
+## <a name="education">Education</a>
 
 #### Makers Academy (February to June 2017)
 
@@ -56,13 +56,13 @@ I'M SEEKING... to join an ambitious, dynamic team that promotes an environment o
 #### Dame Alice Owen's School (2010 - 2012)
 
 - A Levels
-  - Mathematics - A
-  - Biology - A
-  - Chemistry - A
+  - Mathematics: A
+  - Biology: A
+  - Chemistry: A
 
 
-## <a name="experience">Experience</a>
 ***
+## <a name="experience">Experience</a>
 
 **Camarco** (June 2016 to February 2017)    
 *Consultant*  
@@ -72,8 +72,8 @@ My last role was as a consultant with Camarco, a financial communications agency
 *Entrepreneurial Graduate*  
 My first job out of university was with CognitionX, a data science startup, for whom I created, from scratch, a configurable financial model, which enabled detailed forecasting and scenario analysis. I also played a key role in a successful Kickstarter campaign, which raised over £20,000.
 
-## <a name="interests">Interests</a>
 ***
+## <a name="interests">Interests</a>
 
 When I'm not coding, I'm probably doing one of the following...
 - Tutoring Economics - teaching Uni/A-level students how to be rational.
